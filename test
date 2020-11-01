@@ -1,3 +1,12 @@
 anjsaigan firstline
+<<<<<<< HEAD
 anjsaigan secondline.
 to add to remote
+||||||| 2e05696... to add to remote repo
+anjsaigan secondline
+anjsaigan thirdline
+to remote repo
+=======
+anjsaigan secondline
+anjsaigan thirdline
+>>>>>>> parent of 2e05696... to add to remote repo
